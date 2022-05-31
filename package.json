@@ -4,8 +4,8 @@
   "description": "API for canis-net or any relevant application",
   "main": "server.js",
   "scripts": {
-    "start": "node Backend/server.js",
-    "server": "nodemon Backend/server.js"
+    "start": "node backend/server.js",
+    "server": "nodemon backend/server.js"
   },
   "repository": {
     "type": "git",
