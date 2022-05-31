@@ -1,0 +1,29 @@
+{
+  "name": "canis-net-api",
+  "version": "1.0.0",
+  "description": "API for canis-net or any relevant application",
+  "main": "server.js",
+  "scripts": {
+    "start": "node Backend/server.js",
+    "server": "nodemon Backend/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wtsia/canis-net-API.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wtsia/canis-net-API/issues"
+  },
+  "homepage": "https://github.com/wtsia/canis-net-API#readme",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "dotenv": "^16.0.1",
+    "express": "^4.18.1",
+    "mongoose": "^6.3.5"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.16"
+  }
+}
