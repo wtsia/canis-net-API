@@ -8,6 +8,8 @@ Application Programming Interface (API) for canis-net, or any relevant applicati
 
 ## Design Documentation
 - MERN Stack (MongoDB, Express, React, Node.js)
+
+### Functions
 - CRUD: Create (POST), Read (GET), Post (PUT), Delete (DELETE)
 - Database: MongoDB Atlas
 - 
